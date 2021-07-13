@@ -1,0 +1,17 @@
+// Why do we test our software as engineers
+// Testing is so important because everyone makes mistakes.
+// They can be identified in the early implementation stage and be fixed before the software is deployed.
+// This will in turn save costing and make a robust product that doesn't break
+// aids in the identification of defects, missing requirements, or gaps in your code
+
+
+// What best practices are there for testing software
+// 1. Simulating a user environment on how a user interacts with your software product. This is important as it is helps you understand your end product a lot better. 
+//You get to see the faults as a customer and be able to improve the user experience. ( see the bigger picture)
+// 2. Testing early and often so your code is the most robust it can be. The more you test, the less bugs you will come across at the end product
+
+
+// Where you have applied those best practices
+// During our client project making an app that allows people to take a picture and place  it within a map location.
+//As a team, we constantly made sure that we went through each page to check whenever we altered the code, it did not break other parts of the code. 
+//This helped us massively as it assured  us that every time we added better or more functionality, it improved the logic.
